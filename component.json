@@ -1,0 +1,12 @@
+{
+  "name": "aurora",
+  "repo": "component/aurora",
+  "description": "Aurora theme for Calendar, Popover, and Tip",
+  "version": "0.0.1",
+  "keywords": ["aurora", "theme", "bundle"],
+  "dependencies": {
+    "component/aurora-popover": "*",
+    "component/aurora-calendar": "*"
+  },
+  "development": {}
+}
